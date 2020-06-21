@@ -1,0 +1,11 @@
+data_base_location=./data/data_C_anonymized/
+vehicle_max_items=10
+random_seed=7
+
+# Specific to a city
+min_vh_speed=2.21989852
+max_vh_speed=19.6399977
+min_rest_p_time=4.000000
+max_rest_p_time=1728.666667
+avg_rest_p_time=626.246490
+std_rest_p_time=313.443051

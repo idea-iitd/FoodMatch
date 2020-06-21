@@ -1,0 +1,34 @@
+data_A_anonymized/
+data_B_anonymized/
+data_C_anonymized/
+results/
+
+# hidden files/folders
+.*
+!**.gitignore
+!**.gitkeep
+
+########################################### C++
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+########################################### Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
