@@ -28,3 +28,4 @@ We use two datasets for evaluation of algorithms:
 ## References
 [1] Reyes, Damián et al. “The Meal Delivery Routing Problem.” (2018). <br>
 [2] Reyes, Damián. Innovations in last-mile delivery systems. PhD Dissertion. Georgia Institute of Technology, May 2018.
+[3] Hungarian Implementation: https://bougleux.users.greyc.fr/lsape/
